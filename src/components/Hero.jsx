@@ -71,13 +71,13 @@ const Hero = () => {
 
         <img
           className="left-leaf"
-          src="public/images/hero-left-leaf.png"
+          src="/images/hero-left-leaf.png"
           alt="leaf"
         />
 
         <img
           className="right-leaf"
-          src="public/images/hero-right-leaf.png"
+          src="/images/hero-right-leaf.png"
           alt="leaf"
         />
 
