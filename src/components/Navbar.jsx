@@ -28,7 +28,7 @@ const Navbar = () => {
   return (
     <nav>
       <div>
-        <a className="flex items-center gap-2" href="#home">
+        <a className="flex items-center gap-2" href="#hero">
           <img src="/images/logo.png" alt="logo" />
           <p>Valvet Pour</p>
         </a>
